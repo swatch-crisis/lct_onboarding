@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="swatch-media@vercel.app"
+          href="lctafrica.net"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Visit Swatch Media
+          Visit LCT Africa
         </a>
       </header>
     </div>
