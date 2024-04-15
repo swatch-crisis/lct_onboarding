@@ -21,11 +21,7 @@ function App() {
     </div>
   );
 
-  }
-
-  function dashboard() {
-
-    return  (
+    return (
       <div class="daashboard">
         <main>
         <h1>CAMPER CAFE</h1>
