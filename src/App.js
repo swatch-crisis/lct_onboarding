@@ -33,7 +33,6 @@ function Menu() {
       <main>
         <h1>CAMPER CAFE</h1>
         <p class="established">Est. 2020</p>
-        <hr>
         <section>
           <h2>Coffee</h2>
           <img src="https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg" alt="coffee icon"/>
