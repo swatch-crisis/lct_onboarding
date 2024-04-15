@@ -24,7 +24,6 @@ function App() {
   }
   
 
-export default App;
 
 function Menu() {
   return(
@@ -73,4 +72,5 @@ function Menu() {
   );
 }
 
+export default App;
 export default Menu;
