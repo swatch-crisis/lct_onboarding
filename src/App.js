@@ -26,7 +26,7 @@ function App() {
 
 export default App;
 
-/*function Menu() {
+function Menu() {
   return(
 
     <div className="Menu">
@@ -70,8 +70,8 @@ export default App;
           </article>
         </section>
       </main>
+      </div>
   );
 }
 
 export default Menu;
-*/
